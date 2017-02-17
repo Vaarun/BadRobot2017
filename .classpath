@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="lib/NetworkTables.jar"/>
 	<classpathentry kind="lib" path="lib/TalonSRXLibJava.jar"/>
 	<classpathentry kind="lib" path="lib/WPILib.jar"/>
-	<classpathentry kind="output" path="src"/>
+	<classpathentry kind="lib" path="lib/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="lib/navx_frc.jar"/>
 </classpath>
